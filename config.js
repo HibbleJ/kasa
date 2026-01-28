@@ -2,6 +2,16 @@
 // 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
 // ============================================
 
+const URL = 'https://www.instagram.com/binghamtonkasa/';
+const LINKTEXT = 'KASA\'s Instagram';
+
+const LINK = document.createElement('a');
+
+link.href = URL;
+link.textContent = LINKTEXT;
+
+link.target = '_blank';
+
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
@@ -87,3 +97,4 @@ const CONFIG = {
 
 // Don't modify anything below this line unless you know what you're doing
 window.VALENTINE_CONFIG = CONFIG; 
+
