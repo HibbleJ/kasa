@@ -2,7 +2,7 @@
 // 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
 // ============================================
 
-const URL = 'https://www.instagram.com/binghamtonkasa/';
+/*const URL = 'https://www.instagram.com/binghamtonkasa/';
 const LINKTEXT = 'KASA\'s Instagram';
 
 const LINK = document.createElement('a');
@@ -10,7 +10,7 @@ const LINK = document.createElement('a');
 link.href = URL;
 link.textContent = LINKTEXT;
 
-link.target = '_blank';
+link.target = '_blank';*/
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
